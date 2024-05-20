@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\Prim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{300106AC-5B3B-48DD-92AF-21D347AA5F4B}|Prim\\Prim.vcxproj|D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\Prim\\Prim\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{300106AC-5B3B-48DD-92AF-21D347AA5F4B}|Prim\\Prim.vcxproj|solutionrelative:Prim\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300106AC-5B3B-48DD-92AF-21D347AA5F4B}|Prim\\Prim.vcxproj|D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\Prim\\Prim\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{300106AC-5B3B-48DD-92AF-21D347AA5F4B}|Prim\\Prim.vcxproj|solutionrelative:Prim\\Text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Text.txt",
+              "DocumentMoniker": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\Prim\\Prim\\Text.txt",
+              "RelativeDocumentMoniker": "Prim\\Text.txt",
+              "ToolTip": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\Prim\\Prim\\Text.txt",
+              "RelativeToolTip": "Prim\\Text.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-20T07:58:21.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\Prim\\Prim\\Source.cpp",
+              "RelativeDocumentMoniker": "Prim\\Source.cpp",
+              "ToolTip": "D:\\University_STU\\Nam2\\HK2\\CTDL_GT2\\GRAPH\\Prim\\Prim\\Source.cpp",
+              "RelativeToolTip": "Prim\\Source.cpp",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFYAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T07:58:11.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
